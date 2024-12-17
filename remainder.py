@@ -1,5 +1,3 @@
-# remainder.py
-
 def compute_remainder(dividend, divisor):
     """
     Вычисляет остаток от деления dividend на divisor.
